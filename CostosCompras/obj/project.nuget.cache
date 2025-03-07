@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLGVEEE9PIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\CostosCompras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NPACHECO\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.3.2\\firebirdsql.data.firebirdclient.10.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

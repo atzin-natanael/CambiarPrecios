@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|c:\\users\\npacheco\\source\\repos\\costoscompras\\costoscompras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|solutionrelative:costoscompras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\costoscompras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|solutionrelative:costoscompras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|c:\\users\\npacheco\\source\\repos\\costoscompras\\costoscompras\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9700B1F9-3DDD-42EA-9EB9-C19CD0015A65}|CostosCompras\\CostosCompras.csproj|solutionrelative:costoscompras\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalSettings.cs",
+              "DocumentMoniker": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\GlobalSettings.cs",
+              "RelativeDocumentMoniker": "CostosCompras\\GlobalSettings.cs",
+              "ToolTip": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\GlobalSettings.cs",
+              "RelativeToolTip": "CostosCompras\\GlobalSettings.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:13:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\Form1.cs",
+              "RelativeDocumentMoniker": "CostosCompras\\Form1.cs",
+              "ToolTip": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\Form1.cs*",
+              "RelativeToolTip": "CostosCompras\\Form1.cs*",
+              "ViewState": "AgIAABIBAAAAAAAAAAAwwB8BAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:56:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\Form1.cs",
+              "RelativeDocumentMoniker": "CostosCompras\\Form1.cs",
+              "ToolTip": "C:\\Users\\NPACHECO\\source\\repos\\CostosCompras\\CostosCompras\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "CostosCompras\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:54:31.403Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
